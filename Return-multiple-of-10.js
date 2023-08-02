@@ -11,3 +11,6 @@ Expected output:
   30
   40
 */
+
+
+// Solution
